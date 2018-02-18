@@ -1,7 +1,7 @@
-Cinema Booking System
-
 Username for staff: admin,
 Password for staff: password
+
+Cinema Booking System
 
 This project aimed to design and implement a cinema booking management system as a JavaFX GUI application with the following minimum requirements:
 
