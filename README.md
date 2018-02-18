@@ -7,6 +7,8 @@ This project aimed to design and implement a cinema booking management system as
 
 1. The system handles two different profiles; the cinema employee and ordinary customers. Both types of users need to login before being able to use the management system
 2. Application should display a different view depending on the logged-in user
+
+Cinema employee profile
 3. The cinema employee should be able to login to the cinema management system using a username/password pair.
 4. The cinema employee can add films with their respective dates and screening times. A film is represented by a title, a small image, and a brief description.
 5. For a given film/date/time, application should provide an up-to-date graphical representation of the cinema room setting. It should graphically distinguish between booked seats and available ones. It should also show labels (e.g G13) and approximate position of the seats within the cinema.
