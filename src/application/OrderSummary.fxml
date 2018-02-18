@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600" prefWidth="900" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MainEnterController">
+   <children>
+      <Button fx:id="btnToPayment" layoutX="370.0" layoutY="393.0" mnemonicParsing="false" onAction="#orderTransition" text="Proceed to Payment" />
+      <Button fx:id="btnHome" layoutX="717.0" layoutY="29.0" mnemonicParsing="false" onAction="#orderTransition" prefHeight="27.0" prefWidth="63.0" text="Home" />
+      <Button fx:id="btnLogOut" layoutX="807.0" layoutY="28.0" mnemonicParsing="false" onAction="#orderTransition" text="Log Out" />
+      <Label layoutX="392.0" layoutY="175.0" text="Booking Summary" />
+      <Label layoutX="278.0" layoutY="202.0" prefHeight="17.0" prefWidth="88.0" text="Movie Name:" />
+      <Label layoutX="278.0" layoutY="230.0" prefHeight="17.0" prefWidth="99.0" text="Date and Time:" />
+      <Label layoutX="278.0" layoutY="262.0" text="Seats:" />
+      <Label layoutX="278.0" layoutY="321.0" text="Number of Tickets:" />
+      <Label layoutX="278.0" layoutY="349.0" text="Total Cost:" />
+      <Label fx:id="labelMovieName" layoutX="441.0" layoutY="202.0" wrapText="true" />
+      <Label fx:id="labelDateSummary" layoutX="441.0" layoutY="230.0" prefHeight="17.0" prefWidth="150.0" />
+      <Label fx:id="labelSeatsFinal" layoutX="441.0" layoutY="262.0" />
+      <Label fx:id="labelTicketTotal" layoutX="441.0" layoutY="321.0" prefHeight="17.0" prefWidth="90.0" />
+      <Label fx:id="labelTotalCost" layoutX="441.0" layoutY="349.0" prefHeight="17.0" prefWidth="90.0" />
+      <Button fx:id="btnPromo" layoutX="570.0" layoutY="132.0" mnemonicParsing="false" text="Add promo code" />
+   </children>
+</AnchorPane>

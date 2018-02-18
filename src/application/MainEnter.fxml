@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="900" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MainEnterController">
+   <children>
+      <Button fx:id="btnCustForm" layoutX="368.0" layoutY="264.0" mnemonicParsing="false" onAction="#signUpTransition" prefHeight="30.0" prefWidth="164.0" text="Sign up" />
+      <Button fx:id="btnCustSignIn" layoutX="368.0" layoutY="314.0" mnemonicParsing="false" onAction="#signUpTransition" prefHeight="30.0" prefWidth="164.0" text="Customer Login" />
+      <Button fx:id="btnStaffSignIn" layoutX="368.0" layoutY="364.0" mnemonicParsing="false" onAction="#signUpTransition" prefHeight="30.0" prefWidth="164.0" text="Staff Login" />
+      <Label layoutX="254.0" layoutY="114.0" text="Welcome to Cinema Booking System">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

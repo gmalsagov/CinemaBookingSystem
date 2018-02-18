@@ -1,0 +1,18 @@
+Interstellar
+A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+19:00,21:00
+/Users/German/Desktop/Education/Computer_Science/COMPGC01 - Introductory Programming/Coursework/CinemaBookingSystemv2/resources/movieImages/Interstellar.jpg
+31-01-2018
+10-02-2018
+Thor Ragnarek
+Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.
+18:00
+/Users/German/Desktop/Education/Computer_Science/COMPGC01 - Introductory Programming/Coursework/CinemaBookingSystemv2/resources/movieImages/thor.jpg
+31-01-2018
+04-02-2018
+The Godfather
+The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+17:00,15:00
+/Users/German/Desktop/Education/Computer_Science/COMPGC01 - Introductory Programming/Coursework/CinemaBookingSystemv2/resources/movieImages/starwars.jpg
+31-01-2018
+02-02-2018

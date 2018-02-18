@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CinemaBookingSystemv2:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/CinemaBookingSystemv2_jar</output-path>
+    <root id="archive" name="CinemaBookingSystemv2.jar">
+      <element id="module-output" name="CinemaBookingSystemv2" />
+    </root>
+  </artifact>
+</component>
