@@ -1,6 +1,3 @@
-Username for staff: admin,
-Password for staff: password
-
 Cinema Booking System
 
 This project aimed to design and implement a cinema booking management system as a JavaFX GUI application with the following minimum requirements:
@@ -19,3 +16,7 @@ This project aimed to design and implement a cinema booking management system as
 12. When the customer clicks on the ‘Confirm booking’ button, a summary of his booking is displayed and the booking added to his history.
 13. A customer can delete an existing booking from his list if it is a future booking only, otherwise an error message is displayed.
 14. The cinema customer can logout from the application.
+
+Username for staff: admin,
+Password for staff: password
+
